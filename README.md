@@ -6,7 +6,7 @@ Check it out [here](http://loginsignupapp-20210711163651-hostingbucket-dev.s3-we
 
 ## Technologies used
 - Front-end:
-  - React
+  - React, AWS-Amplify
 - Back-end:
   - AWS Cognito
 - Deployment:
